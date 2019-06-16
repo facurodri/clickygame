@@ -1,63 +1,63 @@
 [
     {
       "id": 1,
-      "name": "SpongeBob",
-      "image": "https://media.giphy.com/media/5EJHDSPpFhbG0/giphy.gif"
+      "name": "Chihuahua",
+      "image": "https://i.pinimg.com/564x/56/de/3a/56de3a13b0672f57c9b8477562269b34.jpg"
     },
     {
       "id": 2,
-      "name": "Mr. Krabs",
-      "image": "https://media.giphy.com/media/WEiKBTaESHHhK/giphy.gif"
+      "name": "Boxer",
+      "image": "https://i.pinimg.com/564x/71/79/9f/71799f854adcc47c4aa683994529d091.jpg"
     },
     {
       "id": 3,
-      "name": "Squidward",
-      "image": "https://media.giphy.com/media/5mHOFRp585560/giphy.gif"
+      "name": "Dobermann",
+      "image": "https://i.pinimg.com/564x/15/29/38/152938596a897dc27c13b2a1b46c8005.jpg"
     },
     {
       "id": 4,
-      "name": "Dexter",
-      "image": "https://media.giphy.com/media/ziomDyNELJJHq/giphy.gif"
+      "name": "Dachshund",
+      "image": "https://i.pinimg.com/564x/ce/14/71/ce1471a82bfab020bc9d21c7927663f2.jpg"
     },
     {
       "id": 5,
-      "name": "Courage",
-      "image": "https://media.giphy.com/media/ObGI10PUeVPCE/giphy.gif"
+      "name": "Hound Mix",
+      "image": "https://i.pinimg.com/564x/12/4d/14/124d14f7deea29c1698d003749a86395.jpg"
     },
     {
       "id": 6,
-      "name": "Doug Funnie",
-      "image": "https://media.giphy.com/media/dj200H2AC4FLW/giphy.gif"
+      "name": "Cocker Spanial",
+      "image": "https://i.pinimg.com/564x/d7/de/61/d7de61bcb5f319e72ea60d49904f091a.jpg"
     },
     {
       "id": 7,
-      "name": "Bugs Bunny",
-      "image": "https://media.giphy.com/media/1hAZUQFHH98GLGKj2U/giphy.gif"
+      "name": "German Shepherd",
+      "image": "https://i.pinimg.com/564x/92/bc/30/92bc302dc7d2c89c0426f42a294d370c.jpg"
     },
     {
       "id": 8,
-      "name": "Johnny Bravo",
-      "image": "https://media.giphy.com/media/3GPbOod9GkC5i/giphy.gif"
+      "name": "Shepard Mix",
+      "image": "https://i.pinimg.com/564x/00/2a/0b/002a0b8a1206d9ee4f98f913cdeb262e.jpg"
     },
     {
       "id": 9,
-      "name": "Tommy Pickles",
-      "image": "https://media.giphy.com/media/6e7TIG7IB5WYE/giphy.gif"
+      "name": "Huskys",
+      "image": "https://i.pinimg.com/564x/8c/d2/d5/8cd2d59dc370cf6d38a3e3cf1380e374.jpg"
     },
     {
       "id": 10,
-      "name": "Rocko",
-      "image": "https://media.giphy.com/media/Yxw2fDBaaqMF2/giphy.gif"
+      "name": "Dalmation",
+      "image": "https://i.pinimg.com/564x/8f/e3/3e/8fe33e4e2256be4ac4c4232924041080.jpg"
     },
     {
       "id": 11,
-      "name": "Captain Planet",
-      "image": "https://media.giphy.com/media/JL3epOD0U2Woo/giphy.gif"
+      "name": "Doodle",
+      "image": "https://i.pinimg.com/564x/e9/b2/ea/e9b2ea9b72821b845143ae10e3d72287.jpg"
     },
     {
       "id": 12,
-      "name": "Ickis",
-      "image": "https://media.giphy.com/media/eeUJaTwsHh3tswkaYm/giphy.gif"      
+      "name": "French Bulldog",
+      "image": "https://i.pinimg.com/564x/48/89/6b/48896ba3fcf11f871071cd6cb98add23.jpg"      
     }
   ]
   
