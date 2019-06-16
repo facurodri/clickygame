@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "SpongeBob",
+      "image": "https://media.giphy.com/media/5EJHDSPpFhbG0/giphy.gif"
+    },
+    {
+      "id": 2,
+      "name": "Mr. Krabs",
+      "image": "https://media.giphy.com/media/WEiKBTaESHHhK/giphy.gif"
+    },
+    {
+      "id": 3,
+      "name": "Squidward",
+      "image": "https://media.giphy.com/media/5mHOFRp585560/giphy.gif"
+    },
+    {
+      "id": 4,
+      "name": "Dexter",
+      "image": "https://media.giphy.com/media/ziomDyNELJJHq/giphy.gif"
+    },
+    {
+      "id": 5,
+      "name": "Courage",
+      "image": "https://media.giphy.com/media/ObGI10PUeVPCE/giphy.gif"
+    },
+    {
+      "id": 6,
+      "name": "Doug Funnie",
+      "image": "https://media.giphy.com/media/dj200H2AC4FLW/giphy.gif"
+    },
+    {
+      "id": 7,
+      "name": "Bugs Bunny",
+      "image": "https://media.giphy.com/media/1hAZUQFHH98GLGKj2U/giphy.gif"
+    },
+    {
+      "id": 8,
+      "name": "Johnny Bravo",
+      "image": "https://media.giphy.com/media/3GPbOod9GkC5i/giphy.gif"
+    },
+    {
+      "id": 9,
+      "name": "Tommy Pickles",
+      "image": "https://media.giphy.com/media/6e7TIG7IB5WYE/giphy.gif"
+    },
+    {
+      "id": 10,
+      "name": "Rocko",
+      "image": "https://media.giphy.com/media/Yxw2fDBaaqMF2/giphy.gif"
+    },
+    {
+      "id": 11,
+      "name": "Captain Planet",
+      "image": "https://media.giphy.com/media/JL3epOD0U2Woo/giphy.gif"
+    },
+    {
+      "id": 12,
+      "name": "Ickis",
+      "image": "https://media.giphy.com/media/eeUJaTwsHh3tswkaYm/giphy.gif"      
+    }
+  ]
+  
