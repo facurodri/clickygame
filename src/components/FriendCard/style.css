@@ -1,17 +1,18 @@
 .card {
-    
+    align-content: cente;
     border-radius: 2px;
-    height: 375px;
+    height: 325px;
     margin: 1.5rem;
     position: relative;
-    width: 340px;
+    width: 300px;
     box-shadow: 0 3px 6px rgb(86, 207, 255), 0 3px 6px rgb(86, 207, 255);
    
   }
   .card-container { 
-    padding-left:6em;
+    padding-left:12em;
     display: flex;
-    flex-flow: row wrap;  
+    flex-flow: row wrap;
+    align-content: center;  
   }
   
   .img-container {
