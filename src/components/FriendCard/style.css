@@ -1,7 +1,7 @@
 .card {
-    align-content: cente;
+    align-content: center;
     border-radius: 2px;
-    height: 325px;
+    height: 355px;
     margin: 1.5rem;
     position: relative;
     width: 300px;
@@ -9,7 +9,7 @@
    
   }
   .card-container { 
-    padding-left:12em;
+    padding-left:10em;
     display: flex;
     flex-flow: row wrap;
     align-content: center;  
